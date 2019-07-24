@@ -1,0 +1,9 @@
+Apps:
+  Distributed_Exchange:
+    Name: Distributed_Exchange
+    Description: Solidity Smart Contract using Truffle framework
+    path: ./Practical Part 4/l03
+    mainSolFile: Exchange
+    language: solidity
+    truffle: true
+    README: https://github.com/sagarxooa/distributed_exchange_truffle_class_3/blob/master/README.md
